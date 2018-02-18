@@ -1,0 +1,35 @@
+.container-fluid{
+  text-align: center;
+  font-size: 300%;
+}
+.image{
+  float:left;
+}
+.image2{
+  float:right;
+}
+.left{
+  text-align: left;
+}
+.pictures{
+  float: right;
+}
+.container-fluid-2{
+  font-size: 80%;
+}
+.container-1{
+  text-align:left;
+  font-size: 150%;
+  font-weight: lighter;
+}
+.container2{
+  text-align: right;
+  font-size: 150%;
+  font-weight: lighter;
+}
+h1{
+  font-size: 250%;
+}
+p{
+  font-weight: lighter;
+}
