@@ -1,6 +1,7 @@
 .container-fluid{
   text-align: center;
   font-size: 300%;
+  background-image:url("landing.jpg");
 }
 .image{
   float:left;
@@ -27,9 +28,91 @@
   font-size: 150%;
   font-weight: lighter;
 }
-h1{
-  font-size: 250%;
-}
 p{
   font-weight: lighter;
+}
+.container3{
+  text-align: center;
+  font-size: 120%;
+  font-weight: lighter;
+}
+.conainer4{
+  text-align: center;
+  font-size: 120%;
+  font-weight: lighter;
+}
+.head{
+  color: #F15A29;
+}
+.title{
+  color: #F15A29;
+}
+.container-fluid-5{
+  background-color: #F15A29;
+  text-align: center;
+  padding-right: auto;
+  padding-left: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+  font-size: 120%;
+}
+.menu{
+  font-size: 250%;
+  font-family: sans-serif;
+}
+.footer{
+  font-size: 70%;
+}
+.content{
+  border:solid #F15A29 2px;
+  padding:0px 0px;
+  text-shadow: 0px 0px 20px #F15A29;
+  font-size: 120%;
+  color:#F15A29;
+  text-align: center;
+  border-spacing: inherit;
+}
+.container-fluid-4{
+  text-align: center;
+  font-size: 150%;
+}
+.box{
+  background-color: #F15A29;
+  padding: 23px;
+  color: white;
+}
+.box-2{
+  padding: 24px;
+}
+.container5{
+  position:relative;
+  text-align: left;
+  color: white;
+}
+.centered{
+  position:absolute;
+  text-align: left;
+  font-size: 150%;
+  top: 50%;
+  left: 50%;
+}
+.text-block{
+  position:absolute;
+  bottom:80px;
+  right:370px;
+  background-color: grey;
+  color:white;
+  padding-right:200px;
+}
+.text-block2{
+  position:absolute;
+  bottom:80px;
+  right:200px;
+  background-color: #F15A29;
+  color: white;
+  padding-left:30px;
+  padding-right:30px;
+  padding-bottom: 1px;
+  text-align: left;
 }
