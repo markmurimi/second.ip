@@ -127,3 +127,21 @@ p{
 .floater{
   float:right;
 }
+.imageContainer{
+  float:left;
+}
+.floating{
+  float :left;
+}
+.container-7{
+  margin:90px;
+}
+.container-8{
+  margin:50px;
+  text-align: right;
+  font-size: 140%;
+}
+.container-9{
+  margin:50px;
+  font-size: 140%;
+}
