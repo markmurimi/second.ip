@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid{
   text-align: center;
   font-size: 300%;
@@ -115,4 +116,14 @@ p{
   padding-right:30px;
   padding-bottom: 1px;
   text-align: left;
+=======
+.important{
+  float:right;
+}
+.jumbotron{
+  text-align: center;
+}
+.floater{
+  float:right;
+>>>>>>> 55a83e31fde6697c9bcf2e226ed1d7a0547a15a2
 }
