@@ -1,7 +1,7 @@
 .container-fluid{
   text-align: center;
   font-size: 300%;
-  background-image:url("landing.jpg");
+  background-image:url("../img/landing.jpg");
 }
 .image{
   float:left;
@@ -81,9 +81,11 @@ p{
   background-color: #F15A29;
   padding: 23px;
   color: white;
+  font-size: 300%;
 }
 .box-2{
   padding: 24px;
+  font-size: 300%;
 }
 .container5{
   position:relative;
